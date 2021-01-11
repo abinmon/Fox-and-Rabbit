@@ -15,7 +15,7 @@ inheritance is used to improve the code structure.
 From your terminal, run:
 
 git clone https://github.com/abinmon/Fox-and-Rabbit.git
-This will create a folder called Rabbits-and-Foxes.
+This will create a folder called Fox-and-Rabbit.
 
 Eclipse
 
