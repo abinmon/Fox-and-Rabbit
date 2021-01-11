@@ -25,3 +25,6 @@ Click Browse and select the Fox-and-Rabbit folder that was just created. Click F
 IntelliJ IDEA
 Open the IntelliJ IDEA IDE, and click File -> Open.
 Select the Fox-and-Rabbit folder that was just created and click Open.
+
+Open Fox-and-Rabbit in Intellij or Eclipse then navigate to the 'src' folder.
+Once you are there right click on 'FnRMain' and run the main.
